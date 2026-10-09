@@ -22,7 +22,7 @@ function Contact() {
           href="mailto:deine-email@example.com"
           className="contact-email"
         >
-          Kaan.karakus2003@gmail.com
+          Kaan.karakus.business@gmail.com
         </a>
       </div>
     </section>
